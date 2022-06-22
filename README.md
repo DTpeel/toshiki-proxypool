@@ -143,7 +143,8 @@ make
 
 ### 下载预编译程序
 
-从这里下载预编译好的程序 [release](https://github.com/andatoshiki/toshiki-proxypool/releases)。
+从这里下载预编译好的程序 
+[![GitHub release](https://img.shields.io/github/release/andatoshiki/toshiki-proxypool.svg)](https://github.com/andatoshiki/toshiki-proxypool/releases)
 
 ### use docker
 
